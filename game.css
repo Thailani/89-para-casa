@@ -1,0 +1,20 @@
+.bodyBackgorund {
+    background-image: url("wh-397celll.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+button {
+   background-color: #d195fa;
+   color: white;
+}     
+
+h1{
+    font-family: Hello Script;
+    color: white;
+}
+
+h3{
+    font-family: Agency FB;
+    color: rgb(255, 255, 255);
+}
